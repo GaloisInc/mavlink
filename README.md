@@ -1,3 +1,5 @@
+*NOTE: This repository is no longer in use by the SMACCMPilot project! Kept for archival purposes only*
+
 ## MAVLink ##
 
 *   Website: http://qgroundcontrol.org/mavlink/
